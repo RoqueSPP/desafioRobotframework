@@ -5,7 +5,7 @@
 
 ------------
 
-## Passo a passo para o teste automático:
+# Passo a passo para o teste automático:
 1.  Entrar no site:  http://sampleapp.tricentis.com/101/index.php
 2. Preencher o formulário, aba “Enter Vehicle Data” e pressione next
 3. Preencher o formulário, aba “Enter Insurant Data” e pressione next
